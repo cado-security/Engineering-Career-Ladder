@@ -50,16 +50,17 @@ If you like the sound of what we're up to - we're currently hiring @ https://www
 ## Engineering Manager
 Engineering Managers at Cado see their team as their product. While they are technically credible and spend time contributing to the code-base, at least a third of their time is spent safeguarding their team's health, hiring a world-class team, and putting them in the best position to succeed. They own the delivery of product commitments and are always looking to improve productivity. They also coordinate across departments to accomplish collaborative goals.
 
--   Extends the Engineer III requirements, but with management responsibilities and less of an individual contributor requirement than a Staff Engineer.
--   Help your engineers grow their skills and experience.
--   Conduct code reviews, and make technical contributions to product architecture.
--   Conduct managerial interviews for candidates, and train the team to do technical interviews.
--   Make your team feel safe and supported.
--   Generate and implement process improvements.
--   Hold regular 1:1's with all members of their team.
--   Give regular and clear feedback around the individual's performance.
--   Foster technical decision making on the team, but make final decisions when necessary.
--   Improve product quality, security, and performance.
+- Your primary responsibility is to manage your team, you are also expected to make some technical contributions.
+- Help your engineers grow their skills and experience by holding 1:1s and giving regular feedback
+- Make your team feel safe and supported
+- Act as a champion for Cado’s values
+- Foster technical decision making on the team, but make final decisions when necessary
+- Own the delivery of product commitments, by coordinating across the whole company
+- Set, track and make progress towards OKRs and KPIs for your team
+- Identify opportunities to implement improvements to how your team and the rest of engineering work
+- Responsible for productivity, product quality, security, and performance
+- Collaborate with other engineering managers. Share best practices and identify opportunities to work together.
+
 
 ## Director of Engineering
 -   Extends that of the Engineering Manager requirements.
